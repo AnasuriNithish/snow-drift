@@ -1,0 +1,6 @@
+{
+  "name": "SnowDrift: Cozy Alpine Plow",
+  "description": "A cozy 3D isometric snow-plowing game with satisfying clearing physics, vehicle upgrades, combo multipliers, and retro synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
